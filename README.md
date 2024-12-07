@@ -30,5 +30,5 @@ An application that can generate strong passwords quickly and effortlessly saves
 Click on following link -
 
 ```bash
-https://poorva-ramani.github.io/password_generator/
+https://poorvaramani24.github.io/password_generator/
 ```
